@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.nav-link {
+  color: white !important;
+}
+.nav-link1 {
+  color: seashell !important;
+  font-family: fantasy;
+  font-size: x-large;
+  text-decoration: none;
+}
+.bi {
+  color: lime !important;
+  font-size: 25px;
+}
